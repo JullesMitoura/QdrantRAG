@@ -1,0 +1,13 @@
+python-docx
+PyPDF2
+python-pptx
+langchain-text-splitters
+langchain-huggingface
+langchain-community
+qdrant-client
+langchain-qdrant
+python-dotenv
+fastapi
+openai
+streamlit
+tiktoken
